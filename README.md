@@ -4,7 +4,7 @@
 Pedra Papel ou Tesoura é o classico jogo adaptado para Android
 
 ## Video Demonstrativo:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/TaCEFeThkZo)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=KUuUPqD_DaI)
 
 ## Download do App
 [App](https://drive.google.com/file/d/1SpYsJ0aZtAI2mbTr3wc5rYGE-huohOcm/view?usp=sharing)
